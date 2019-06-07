@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BtChat</string>
+    <string name="turn_bluetooth_on">Turn Bluetooth On</string>
+    <string name="start_discover_bluetooth_devices">Start Discover Bluetooth Devices</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="send">send</string>
+    <string name="input_som_text">Input som text</string>
+    <string name="not_connected">not connected</string>
+    <string name="connect">connect</string>
+</resources>
