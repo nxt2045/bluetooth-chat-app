@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vise.xiaoyaoyou:common_utils:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/136ee8082eb9c59d11c98bb97b5a2ca2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/136ee8082eb9c59d11c98bb97b5a2ca2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vise.xiaoyaoyou/common_utils/1.0.1/94c233ac5eabc23cc4db052fc7c639c31138b267/common_utils-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

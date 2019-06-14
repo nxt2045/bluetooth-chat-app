@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.0"
+    defaultConfig {
+        applicationId "com.vise.bluetoothchat"
+        minSdkVersion 18
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    api fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    api 'com.android.support:appcompat-v7:22.+'
+    api 'com.android.support:design:22.+'
+    api 'com.vise.xiaoyaoyou:common_utils:1.0.1'
+    api 'com.vise.xiaoyaoyou:common_base:1.0.2'
+    api 'cn.qqtheme.framework:FilePicker:latest.release'
+    api 'com.rockerhieu.emojicon:library:1.3.3'
+    api project(':library')
+}
