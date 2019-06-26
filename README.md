@@ -1,15 +1,8 @@
-# bt-chat
-## 要求
-```txt
-第三学期开学之前截止（预计620左右）
-内容主题（自选）：
-1、蓝牙自组网传输消息、文件：
-2、蓝牙beacon.模拟社交：
-3、蓝牙自组网模拟共享自行车，
-4、手机GPS模拟滴滴打车：
-5、手机APP模拟传感器网络
+# bluetooth-chat
 
-形式2-3人分组
+## info
+- chatting app using android bluetooth
 
-结果工程+实验报告（小组形式，组员名单)
-```
+## env
+- windows 10 pro
+- android studio
