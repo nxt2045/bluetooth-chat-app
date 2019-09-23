@@ -31,20 +31,28 @@
 - 支持附近好友添加，好友删除，好友分组显示，好友上下线提醒，好友昵称及分组名称修改。
 
 ## 运行截图
-### 侧边栏    
-![drawer](screenshot/drawer.JPEG =10x)
+### 侧边栏     
+<img src="screenshot/drawer.JPEG" alt="drawer" width="300"></img>  
+
 ### 首页    
-![home](screenshot/home.JPEG)
+<img src="screenshot/home.JPEG" alt="home" width="300"></img>  
+
 ### 添加好友    
-![add](screenshot/add.JPEG)
+<img src="screenshot/add.JPEG" alt="add" width="300"></img>  
+
 ### 好友配对    
-![connect1](screenshot/connect1.JPEG)
-![connect2](screenshot/connect2.JPEG)
+<img src="screenshot/connect1.JPEG" alt="connect1" width="300"></img>  
+<img src="screenshot/connect2.JPEG" alt="connect2" width="300"></img>  
+
 ### 聊天    
-![chat1](screenshot/chat1.JPEG)
-![chat2](screenshot/chat2.JPEG)
+<img src="screenshot/chat1.JPEG" alt="chat1" width="300"></img>  
+<img src="screenshot/chat2.JPEG" alt="chat2" width="300"></img>  
+
+
 ### 表情    
-![emoji](screenshot/emoji.JPEG)
+<img src="screenshot/emoji.JPEG" alt="emoji" width="300"></img>  
+
 ### 文件     
-![file](screenshot/file.JPEG)
+<img src="screenshot/file.JPEG" alt="file" width="300"></img>  
+
 
