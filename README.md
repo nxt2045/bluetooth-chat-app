@@ -32,7 +32,7 @@
 
 ## 运行截图
 ### 侧边栏    
-![drawer](screenshot/drawer.JPEG)
+![drawer](screenshot/drawer.JPEG =10x)
 ### 首页    
 ![home](screenshot/home.JPEG)
 ### 添加好友    
