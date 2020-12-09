@@ -1,12 +1,10 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+.idea/
+.gradle/
 
 # Other files and folders
 .settings/
-
+.DS_Store
 # Executables
 *.swf
 *.air
