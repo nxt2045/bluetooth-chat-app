@@ -3,7 +3,6 @@
     基于 Android Classic Bluetooth 的安卓蓝牙聊天软件。
     支持一对一实时通信、文件传输、好友添加、好友分组、好友在线状态更新等功能，其中消息发送支持文本、表情等方式。
     
-- 物联网课程 期末大作业
 - 主题 [蓝牙自组网](https://blog.csdn.net/javaSXL/article/details/83241611)     
 
 
