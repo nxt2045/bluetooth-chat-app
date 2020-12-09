@@ -33,27 +33,27 @@
 
 ## 运行截图
 ### 侧边栏
-<img src="../../blob/master/screenshot/drawer.JPEG" alt="drawer" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/drawer.JPEG" alt="drawer" width="300"></img>
 
 ### 首页
-<img src="../../blob/master/screenshot/home.JPEG" alt="home" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/home.JPEG" alt="home" width="300"></img>
 
 ### 添加好友
-<img src="../../blob/master/screenshot/add.JPEG" alt="add" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/add.JPEG" alt="add" width="300"></img>
 
 ### 好友配对
-<img src="../../blob/master/screenshot/connect1.JPEG" alt="connect1" width="300"></img>
-<img src="../../blob/master/screenshot/connect2.JPEG" alt="connect2" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/connect1.JPEG" alt="connect1" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/connect2.JPEG" alt="connect2" width="300"></img>
 
 ### 聊天
-<img src="../../blob/master/screenshot/chat1.JPEG" alt="chat1" width="300"></img>
-<img src="../../blob/master/screenshot/chat2.JPEG" alt="chat2" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/chat1.JPEG" alt="chat1" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/chat2.JPEG" alt="chat2" width="300"></img>
 
 
 ### 表情
-<img src="../../blob/master/screenshot/emoji.JPEG" alt="emoji" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/emoji.JPEG" alt="emoji" width="300"></img>
 
 ### 文件
-<img src="../../blob/master/screenshot/file.JPEG" alt="file" width="300"></img>
+<img src="https://github.com/nxt2045/bluetooth-chat-app/tree/master/screenshot/file.JPEG" alt="file" width="300"></img>
 
 
